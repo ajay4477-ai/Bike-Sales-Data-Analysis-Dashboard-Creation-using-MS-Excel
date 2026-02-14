@@ -1,5 +1,4 @@
 # Bike-Sales-Data-Analysis-Dashboard-Creation-using-MS-Excel
-Project Overview : 
 This project focuses on analyzing a bike sales dataset containing 15 attributes related to customer demographics, financial background, and purchasing behavior. The goal of this analysis
 was to identify key factors influencing bike purchases and generate actionable business insights using Microsoft Excel.
 Two additional derived columns Age Group and Income Group were created to perform better customer segmentation and deeper analysis.
@@ -23,16 +22,19 @@ The dataset includes the following columns :
 15) ome Group (Created during analysis)
 
 
+
 Objectives :
 1) Identify customer segments most likely to purchase bikes
 2) Analyze the impact of income, age, and region on buying behavior
 3) Create an interactive dashboard for better visualization and decision-making
 
 
+
 Key Analysis & Insights :
 1) Segmented customers using Age Group and Income Group
 2) Analyzed purchase patterns based on Gender and Marital Status
 3) Studied the relationship between Income and Bike Purchases
+
 
 
 Project Outcome :
